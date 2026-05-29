@@ -29,7 +29,7 @@ reported in the manuscript. Two complementary analyses are provided:
 └── data/
     ├── data.csv                          # student survey dataset (PQUES)
     ├── demo_judges.csv                   # expert-judge profile
-    └── data_Aiken_NPS.csv                # expert ratings (relevance / wording)
+    └── data_Aiken.csv                # expert ratings (relevance / wording)
 ```
 
 ## Data
