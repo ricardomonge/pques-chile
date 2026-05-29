@@ -3,6 +3,7 @@
 Supplementary material and analysis code.
 
 **Authors:** C. Frex; R. Monge; R. Fuentes; H. Fernández
+
 **Contact:** rmonge@udla.cl
 
 ---
