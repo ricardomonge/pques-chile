@@ -40,7 +40,6 @@ All datasets are placed in the `data/` folder.
 - Sociodemographic variables: `sex`, `edad`, `universidad`, `carrera`,
   `anio_ingreso`, `modalidad`, `trabaja`, `donde_trabaja`, `financiamiento`.
 - Instrument-evaluation items: `aceptacion`, `comprension`, `satisfaccion`.
-- Net Promoter Score items: `NPS_universidad`, `NPS_carrera`.
 - 34 ordinal PQUES items organized into five subscales — `IS` (6 items),
   `CC` (7), `PA` (8), `CA` (8), and `DC` (5).
 
