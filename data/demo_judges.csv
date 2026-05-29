@@ -1,0 +1,21 @@
+sexo,grado_academico,especializacion,experiencia_profesional,anios_experiencia,exp_valid_inst
+male,PhD,Higher Education,Research,25,Yes
+male,PhD,Higher Education,Research,15,Yes
+male,PhD,Higher Education,Research,30,Yes
+male,PhD,Higher Education,Research,38,Yes
+female,PhD,Business Administration,Teaching,8,Yes
+male,PhD,Higher Education,Research,25,Yes
+female,PhD,Business Administration,Teaching,31,Yes
+male,PhD,Higher Education,Research,25,Yes
+male,PhD,Business Administration,Research,16,Yes
+female,PhD,Business Administration,Research,30,Yes
+male,Master,Business Administration,Teaching,30,Yes
+male,Master,Business Administration,Teaching,20,No
+male,PhD,Higher Education,Teaching,10,Yes
+female,PhD,Business Administration,Research,25,No
+male,PhD,Business Administration,Research,11,Yes
+male,PhD,Higher Education,Teaching,25,No
+male,PhD,Business Administration,Research,20,Yes
+female,PhD,Business Administration,Research,30,Yes
+male,PhD,Higher Education,Teaching,25,Yes
+male,Master,Business Administration,Teaching,35,Yes
