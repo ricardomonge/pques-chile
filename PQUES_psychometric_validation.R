@@ -862,6 +862,9 @@ print(inv_univ$lrt)
 cat("\n=== Fit indices: invariance by university ===\n")
 print(inv_univ$fit_indices)
 
+# PA.8 excluded: threshold model did not converge with this item included, even
+# after collapsing categories 1-2
+
 # -----------------------------------------------------------------------------
 # 18.6 Comparative summary
 # -----------------------------------------------------------------------------
