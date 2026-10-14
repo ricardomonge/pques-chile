@@ -577,7 +577,7 @@ ega_glasso <- EGA(df_EFA, model = "glasso", plot.EGA = FALSE)
 boot_glasso <- bootEGA(
   df_EFA,
   model  = "glasso",
-  iter   = 250,
+  iter   = 500,
   seed   = 3,
   ncores = 4
 )
