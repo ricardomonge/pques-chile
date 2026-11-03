@@ -1,11 +1,4 @@
 # Cross-cultural Adaptation and Psychometric Validation of the Perceived Quality of University Experiences Scale (PQUES) among Business Students in Chile
-
-Supplementary material and analysis code.
-
-**Authors:** C. Frex; R. Monge; R. Fuentes; H. Fernández
-
-**Contact:** rmonge@udla.cl
-
 [![License: MIT](https://img.shields.io/badge/Code_License-MIT-yellow.svg)](https://github.com/ricardomonge/pques-chile/blob/main/LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data_License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![R Version](https://img.shields.io/badge/R-%3E%3D%204.3.0-276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
@@ -13,6 +6,13 @@ Supplementary material and analysis code.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ricardomonge/pques-chile/blob/main/PQUES_content_validity_AikenV.ipynb)
 [![Open Science](https://img.shields.io/badge/Open_Science-Open_Data_%26_Code-2ea44f.svg)](https://github.com/ricardomonge/pques-chile)
 [![Reproducible](https://img.shields.io/badge/Reproducible-R_%26_Colab-blue.svg)](https://github.com/ricardomonge/pques-chile)
+
+Supplementary material and analysis code.
+
+**Authors:** C. Frex; R. Monge; R. Fuentes; H. Fernández
+
+**Contact:** rmonge@udla.cl
+
 ---
 
 ## Overview
